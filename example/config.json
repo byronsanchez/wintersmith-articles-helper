@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "./../index-dev.js",
+    "./plugins/sample-plugin.coffee"
+  ],
+  "locals": {
+    "title": "Articles Helper Example"
+  },
+  "require": {
+    "_": "../node_modules/underscore"
+  },
+  "articlesHelper": {
+    "articles": "articles"
+  }
+}
