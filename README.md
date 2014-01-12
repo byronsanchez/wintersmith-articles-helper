@@ -1,8 +1,8 @@
 # wintersmith-articles-helper
 
-wintersmith-articles-helper is a plugin that registers an articles retrieval
-function in the `env.helpers` object hash. It was initially written by Johan
-Nordberg and is distributed under the MIT license.
+wintersmith-articles-helper is a plugin that registers an article list 
+retrieval function in the `env.helpers` object hash. It was initially written 
+by Johan Nordberg and is distributed under the MIT license.
 
 ## Requirements
 

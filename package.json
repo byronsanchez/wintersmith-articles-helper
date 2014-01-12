@@ -2,7 +2,7 @@
   "name": "wintersmith-articles-helper",
   "version": "0.1.0",
   "author": "Byron Sanchez <hackBytes.com>",
-  "description": "Helper plugin for retrieving contents in Wintersmith",
+  "description": "Helper plugin for retrieving content lists in Wintersmith",
   "license": "MIT",
   "keywords": [
     "wintersmith",
