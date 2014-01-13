@@ -16,7 +16,6 @@
   },
   "main": "lib/",
   "dependencies": {
-    "underscore": "1.5.x"
   },
   "devDependencies": {
     "coffee-script": "1.6.x",

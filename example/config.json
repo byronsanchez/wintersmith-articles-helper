@@ -6,9 +6,6 @@
   "locals": {
     "title": "Articles Helper Example"
   },
-  "require": {
-    "_": "../node_modules/underscore"
-  },
   "articlesHelper": {
     "articles": "articles"
   }
