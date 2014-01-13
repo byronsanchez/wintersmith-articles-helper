@@ -43,7 +43,7 @@ The directory defined here is relative to the wintersmith `contents/` directory.
 Once you have completed the setup and configuration, you may use the plugin by 
 invoking:
 
-    env.helpers.getArticles contents
+    articles = env.helpers.getArticles contents
 
 You need to have access to the contents variable when you invoke the function.  
 The contents variable is available within jade templates or when [registering a 
