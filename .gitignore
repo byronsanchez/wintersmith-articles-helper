@@ -20,4 +20,4 @@ node_modules
 npm-debug.log
 lib/
 
-example/build
+build
